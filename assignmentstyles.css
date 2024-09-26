@@ -1,0 +1,18 @@
+div#div1 {
+    position: absolute;
+    background-color: white;
+    border: solid 2px;
+    padding: 5px;
+    padding-top: 0px;
+    left: 25px;
+    top: 8px;
+    height: 305px;
+    width: 500px;
+}
+
+div#viv2 {
+    position: absolute;
+    top: 325px;
+    left: 150px;
+    border: solid 1px;
+}
